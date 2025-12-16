@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from "react-router-dom";
-import santorini from "../assets/santorini.jpg";
+import santorini from "../assets/santorini-a.jpg";
 import kyoto from "../assets/kyoto.jpg";
 import bali from "../assets/bali.jpg";
 import cappadocia from "../assets/cappadocia.jpg";
